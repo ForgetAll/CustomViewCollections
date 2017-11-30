@@ -1,0 +1,15 @@
+ext {
+    isLibrary = true
+
+    android = [
+            compileSdkVersion: 26,
+            buildToolsVersion: "26.0.2",
+            minSdkVersion    : 14,
+            targetSdkVersion : 26,
+            applicationId    : "com.csjbot.blackgaga",
+            versionCode      : 1,
+            versionName      : 'V0.0.1',
+            buildVersion     : '.0001',
+            VSupportSdk      : '26.+'
+    ]
+}
