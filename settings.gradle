@@ -1,1 +1,1 @@
-include ':app', ':weather', ':simpleview'
+include ':app', ':weather'
